@@ -26,6 +26,7 @@
 
 ### 1. [Gender Bias ROI Simulator](https://github.com/keisuke-data-lab/gender-bias-simulation)
 **採用バイアスによる「組織IQ損失」の定量化**
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gender-bias-simulation-efntmryjj8pth6vr86vpwn.streamlit.app/)
 * **Target:** CHRO、採用責任者、経営企画
 * **Business Issue:** 「女性の応募が少ない」というパイプライン問題を言い訳にした、男性偏重採用の常態化。
 * **Solution:** 応募者比率と採用基準（バイアス）を変数とした数理モデルにより、無理な比率調整が組織の平均生産性をどれだけ毀損するかを算出。
@@ -41,6 +42,7 @@
 
 ### 3. [DX Project Budget Simulator](https://github.com/keisuke-data-lab/dx-project-failure-structure)
 **技術的負債の財務インパクト可視化**
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dx-project-failure-structure-nl4ewadvnnug5haxtsfa2u.streamlit.app/)
 * **Target:** CIO、DX推進本部長、PMO
 * **Business Issue:** 「あと数人追加すれば間に合う」という安易な判断による、プロジェクト赤字の拡大（ブルックスの法則）。
 * **Solution:** 工数遅延をリアルタイムで「累積赤字額（円）」に換算。手戻りコストと品質コストを分解し、損益分岐点をシミュレート。
@@ -48,10 +50,10 @@
 
 ### 4. [DX Risk Diagnostic (Project Omen)](https://github.com/keisuke-data-lab/dx-risk-diagnostic)
 **過去の炎上判例に基づくガバナンス診断**
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dx-risk-diagnostic-etshqp5dvhv6pwbvzacarb.streamlit.app/)
 * **Target:** 内部監査室、法務、リスク管理担当
 * **Business Issue:** プロジェクト開始前の構造的欠陥（丸投げ、要件未決）の見落とし。
-* **Solution:** 過去のシステム訴訟事例（Mizuho, COCOA等）を教師データとし、新規プロジェクトとの類似度（ユークリッド距離）を判定するガバナンスツール。
-* **Tech Stack:** `Python` `Scikit-learn` (事例ベース推論 / CBR)
+* **Solution:** (事例ベース推論 / CBR)
 
 ---
 
