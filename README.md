@@ -33,6 +33,7 @@
 
 ### 2. [Strategic Org Resilience Simulator](https://github.com/keisuke-data-lab/strategic-org-resilience)
 **「離職の連鎖」と組織崩壊の予兆検知**
+[![Open App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://strategic-org-resilience-9ejs4h2kqqpx5zdwuygri9.streamlit.app/)
 * **Target:** 人事部長、組織開発担当
 * **Business Issue:** ハイパフォーマーの離職が引き起こす、残存メンバーへの業務負荷集中と連鎖離職（デススパイラル）。
 * **Solution:** 業務負荷とストレス耐性を変数としたエージェントベース・シミュレーションにより、組織が崩壊する「ティッピング・ポイント（臨界点）」を特定。
