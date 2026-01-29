@@ -122,4 +122,4 @@ def main():
     print(f"Plot saved to {img_path}")
 
 if __name__ == "__main__":
-    main()python hiring_bias_simulation.py
+    main()
